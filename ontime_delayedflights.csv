@@ -1,0 +1,11 @@
+city,airline,ontime_count,delayed_count
+"Los Angeles",Alaska,497,62
+"Los Angeles","AM West",694,117
+Phoenix,Alaska,221,12
+Phoenix,"AM West",4840,415
+"San Diego",Alaska,212,20
+"San Diego","AM West",383,65
+"San Francisco",Alaska,503,102
+"San Francisco","AM West",320,129
+Seattle,Alaska,1841,305
+Seattle,"AM West",201,61
